@@ -1,0 +1,23 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: meta
+    url: false
+    entries:
+      - title: nerd who loves the outdoors. 
+        url: false
+      - title: linkedin
+        url: https://www.linkedin.com/in/gmsiders/
+      - title: github
+        url: https://github.com/apples723
+      - title: email
+        url: mailto:gmsiders@gmail.com
+      - title: the gig where i write code that pays the bills
+        url: http://2u.com
+  - title: my thoughts
+    url: /blog
+    entries:
+      - title: hopefully soon
+        url: false
+        post_list: true

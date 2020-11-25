@@ -1,0 +1,33 @@
+page:
+  title: Grant's site
+
+title: i have a website
+author: apples723
+email: gmsiders@gmail.com
+url: https://grantsiders.com
+description: > 
+  domains been sitting empty at least it's not a white page anymore. that's about it. 
+
+permalink: /blog/:slug
+
+favicon: "./logo.png" 
+
+#theme: no-style-please 
+remote_theme: apples723.github.io
+
+paginate: 10
+paginate_path: /blog/:num/
+
+theme_config:
+  back_home_text: "cd ~/" 
+  date_format: "%Y-%m-%d" 
+  show_description: true 
+  appearence: "dark"
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate

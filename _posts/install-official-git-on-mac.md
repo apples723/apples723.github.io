@@ -1,4 +1,11 @@
-Git is installed on MacOS by default. It's not the offfical distro, but the Apple distribution of git. 
+---
+layout: post
+slug: gruvbox-thingy
+---
+
+# Installing the Official Git Distro on Mac
+
+Git is installed on MacOS by default. It's not the offfical distro, but the Apple distribution of git and lacks several versions behind the official distro.
 
 ## Overview
 
